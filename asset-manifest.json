@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VMoiseev/ra-hoc-time/static/css/main.c162786f.css",
+    "main.js": "/VMoiseev/ra-hoc-time/static/js/main.a93ec5b1.js",
+    "index.html": "/VMoiseev/ra-hoc-time/index.html",
+    "main.c162786f.css.map": "/VMoiseev/ra-hoc-time/static/css/main.c162786f.css.map",
+    "main.a93ec5b1.js.map": "/VMoiseev/ra-hoc-time/static/js/main.a93ec5b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c162786f.css",
+    "static/js/main.a93ec5b1.js"
+  ]
+}
