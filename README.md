@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wuken8ghf0u1jkkg?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-hoc-time)
+## [Проект](https://vmoiseev.github.io/ra-hoc-time/)
+
 Форматирование даты публикации
 ===
 
